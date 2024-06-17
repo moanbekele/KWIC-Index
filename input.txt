@@ -1,0 +1,5 @@
+Data Structures and Algorithms
+Introduction to Machine Learning
+Advanced Python Programming
+Fundamentals of Database Systems
+Understanding Artificial Intelligence
