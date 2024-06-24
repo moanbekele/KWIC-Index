@@ -55,7 +55,7 @@ Modularization 1: Tighter coupling between modules due to direct function calls 
 Communication:
 
 -   Modularization 1: Direct communication through function arguments and return values.
-Modularization 2: Indirect communication through shared data managed by the Line Storage module.
+-   Modularization 2: Indirect communication through shared data managed by the Line Storage module.
 Flexibility and Maintainability:
 
 -   Modularization 1: Changes in one module may necessitate changes in other modules due to tighter coupling.
