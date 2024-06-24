@@ -1,5 +1,5 @@
 # KWIC (Key Word In Context)
-## Modularization 1
+## Modularization 2
 ### Functional Decomposition:
 
 ### Modules:
